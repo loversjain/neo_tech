@@ -55,6 +55,13 @@ This API is built using **Laravel 10** and utilizes several modern features, inc
    php artisan serve
    ```
 
+
+## Login Credentials
+Email | Password| Role|
+--- | --- | --- |
+check in Users table | password | admin
+check in Users table | password | user
+
 ## Authentication
 
 ### Public Routes
